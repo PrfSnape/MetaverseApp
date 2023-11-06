@@ -2,7 +2,7 @@
 import Image from 'next/image';
 import { Icon } from '@iconify/react';
 import Box from '@mui/material/Box';
-import { DataGrid, GridColDef,GridRenderCellParams ,GridTreeNodeWithRender } from '@mui/x-data-grid';
+import { DataGrid, GridColDef,GridRenderCellParams } from '@mui/x-data-grid';
 // import { useDemoData } from '@mui/x-data-grid-generator';
 import { styled , darken, lighten } from '@mui/material/styles';
 import { ReactNode } from 'react';
